@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af58ab5e.chunk.css",
+    "main.js": "/static/js/main.07f1c14f.chunk.js",
+    "main.js.map": "/static/js/main.07f1c14f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6a645d27.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6a645d27.js.map",
+    "static/js/2.129e9bdd.chunk.js": "/static/js/2.129e9bdd.chunk.js",
+    "static/js/2.129e9bdd.chunk.js.map": "/static/js/2.129e9bdd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a652bec4cb55815353e0b3c466c765aa.js": "/precache-manifest.a652bec4cb55815353e0b3c466c765aa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.af58ab5e.chunk.css.map": "/static/css/main.af58ab5e.chunk.css.map",
+    "static/js/2.129e9bdd.chunk.js.LICENSE.txt": "/static/js/2.129e9bdd.chunk.js.LICENSE.txt",
+    "static/media/CosmoNeutral.jpg": "/static/media/CosmoNeutral.c0efacd2.jpg",
+    "static/media/CosmoSad.jpg": "/static/media/CosmoSad.d4d035ce.jpg",
+    "static/media/CosmoSmile2.jpg": "/static/media/CosmoSmile2.03368334.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a645d27.js",
+    "static/js/2.129e9bdd.chunk.js",
+    "static/css/main.af58ab5e.chunk.css",
+    "static/js/main.07f1c14f.chunk.js"
+  ]
+}
