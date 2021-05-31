@@ -10,6 +10,8 @@
 # testing
 /coverage
 
+# src
+/src
 
 # misc
 .DS_Store
