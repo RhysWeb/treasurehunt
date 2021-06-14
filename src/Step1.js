@@ -67,7 +67,7 @@ export const Step1 = () => {
   return (
     <MainContainer>
       <Typography component="h2" variant="h5">
-        🎲 What is the secret code?
+        🎲 This is the changed branch
       </Typography>
       <Form onSubmit={handleSubmit(onSubmit)}>
         <Input
